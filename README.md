@@ -18,8 +18,7 @@
   - [Snow Flake Schema Data Wharehouse](https://github.com/avasquez9999/Data-Wharhouse-Snowflake-Schema-witth--Interactive-Dashboard)
   - [Business Intelligence Data Warehouse Solution](https://github.com/avasquez9999/Data-Wharhousing-Business-Intelegence-System/upload/main)
   - [Power Bi Dashboard](https://github.com/avasquez9999/CapStone-Project-Fraud-Dection-Using-R-and-Power-Bi-for-data-Viz)
-  - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
-  - [Stock Market Data Warhousing](https://github.com/avasquez9999/SQL-AND-R-ETL-Project-Electricity-load-data-wharhousing-and-forecasting)
+  - [Stock Market Data Warhousing](https://github.com/avasquez9999/Stock-Market-ETL-and-Analytics-Project)
 
 - <b>Databrick Analysis (python, Power BI, R, SQL)</b>
   - [Emplyee Attrition Analysis and data visuaization](https://github.com/avasquez9999/Databrick-_SQL_and_Data_Visualization)
