@@ -1,3 +1,3 @@
 select *
 from {{ source('demo', 'bike') }}
-results 10
+limit 10
